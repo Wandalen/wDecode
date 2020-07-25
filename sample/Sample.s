@@ -3,5 +3,5 @@ let _ = require( 'wdecode' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
